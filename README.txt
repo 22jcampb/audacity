@@ -17,7 +17,7 @@ The Audacity documentation is licensed under the Creative Commons
 Attribution 3.0 license: https://creativecommons.org/licenses/by/3.0/legalcode .
 
 Compilation instructions for Audacity are provided in the source code:
-* Windows: win\build.txt
+* Windows: win/build.txt
 * macOS: mac/build.txt
 * GNU/Linux: linux/build.txt 
 
@@ -71,7 +71,7 @@ Improvements
 
  * More information to help Audacity developers is now provided 
    with most error reports.
- * Manage Macros dialog is now clearer about how to save and
+ * "Manage Macros" dialog is now clearer about how to save and
    close the dialog, thanks to changes in buttons.
  * In MP3 export we removed a legacy option for a slower encoding
    that is no better than the faster one.
@@ -124,7 +124,7 @@ We have two significant bugs we would like help in tracking down:
 If there are repeatable steps to make these bugs happen, this
 could help us track down what is causing them.
 
-For best workarounds and other known issues in 3.0.2, please see:
+For workarounds and other known issues in 3.0.2, please see:
   https://wiki.audacityteam.org/wiki/Release_Notes_3.0.2/Issues 
 
 
@@ -225,23 +225,12 @@ Copyright (c) 2000-2021, by Roger B. Dannenberg
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
+modification, is permitted provided that the following conditions are met:
 
-Redistributions of source code must retain the above copyright notice, this
-list of conditions and the following disclaimer.
-
-Redistributions of source code must retain the copyright notice, the
-list of conditions, and the disclaimer, all three of which appear below under
-"COPYRIGHT AND LICENSE INFORMATION FOR XLISP."
-
-Redistributions in binary form must reproduce the above copyright notice, this
-list of conditions and the following disclaimer in the documentation and/or
+Redistributions in either source or binary form must retain the above copyright notice, this
+list of conditions, and the following disclaimer, and the similar notices which appear below under
+"COPYRIGHT AND LICENSE INFORMATION FOR XLISP." and reproduce such notices in the documentation and/or
 other materials provided with the distribution.
-
-Redistributions in binary form must reproduce the copyright notice, the
-list of conditions, and the disclaimer, all three of which appear below under
-"COPYRIGHT AND LICENSE INFORMATION FOR XLISP," in the documentation
-and/or other materials provided with the distribution.
 
 Neither the name of Roger B. Dannenberg, Carnegie Mellon University, nor the
 names of any contributors may be used to endorse or promote products derived
